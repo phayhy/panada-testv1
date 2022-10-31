@@ -1,60 +1,46 @@
-# Setup Bootstrap Repo & Github Pages
-One or two paragraphs providing an overview of your project. Tell us about your project.
-
-Essentially, this part is your sales pitch.
+# Fun Toast Prototype 
+This project is to setup a Bootstrap Repo & Github Pages for the Fun Toast prototype mock up designed by using Figma.
 
 ## Design Process
-Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+
+The purpose of this project is to modernize and simplify the existing website from Fun Toast by using the corporate colours from Fun's logo (i.e., black and red) and bootstrap design.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 
-* As a user type, I want to perform an action, so that I can achieve a goal.
+* As a potential customer, I want to be able to easily find the link to products so that I can find the list of products offered by the company.
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory) Include the Adobe XD wireframe as a folder. You can include the XD share url.
+The link to the mock up website: [Fun Toast mock up website](https://phayhy.github.io/panada-testv1/).
 
 ## Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
-
 ### Existing Features
-* Feature 1 - allows users X to achieve Y, by having them fill out Z
-* ...
+* Feature 1 - A call-to-action button at the center of the landing page to allow users to find the products easily 
+* Feature 2 - Simplified navigation bar to focus on important contents
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
-* Another feature idea
+* Feature 1 - To include new pages for promotions and outlets
 
 ## Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+The following tools were used to set up the website
 
-* JQuery
-** The project uses JQuery to simplify DOM manipulation.
+* [Bootstrap Templates](https://startbootstrap.com/templates)
+* [Figma](https://www.figma.com/)
+* [Canva](https://www.canva.com/en_gb/)
 
-## Testing
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-1. Contact form:
-
-  i.  Go to the "Contact Us" page
-  
-  ii. Try to submit the empty form and verify that an error message about the required fields appears
-  
-  iii.  Try to submit the form with an invalid email address and verify that a relevant error message appears
-  
-  iv. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ## Credits
 ### Content
-* The text for section Y was copied from the Wikipedia article Z
+* The text, content and images were copied from:
+* [Fun Toast](https://www.funtoast.com.sg/)
 
 ### Media
-* The photos used in this site were obtained from ...
+The photos used in this site were obtained from:
+
+* [Figma](https://www.figma.com/)
+* [Canva](https://www.canva.com/en_gb/)
 
 ### Acknowledgements
-* I received inspiration for this project from X
+I received inspiration for this project from:
+
+* [Bootstrap Templates](https://startbootstrap.com/templates)
