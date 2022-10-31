@@ -1,0 +1,84 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+a.navbar-brand, a.nav-link{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  /*margin-left: auto;*/
+}
+nav {
+  background-color: rgba(234, 33, 39);
+}
+
+button.btn-primary {
+  /* color: #fff; */
+  background-color: rgba(234, 33, 39, 0.8);
+  border-color: rgba(234, 33, 39, 0.3);
+  box-shadow: inset 2px 2px 3px rgba(234, 33, 39, .2),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  position:relative;
+  top: 10%;
+  left: 0%;
+  padding-bottom: 10px;
+}
+
+button.btn-primary:hover {
+  background-color: rgba(255, 255, 255, 1);
+  border-color: rgba(234, 33, 39, 0.3);
+  color: rgba(234, 33, 39, 1);
+}
+button.btn-primary:active {
+  box-shadow: inset -2px -2px 3px rgba(234, 33, 39, 0.6),
+              inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
+
+h1, p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@media screen and (min-width: 768px) {
+ .carousel-item img {
+ max-height: 768px;
+ min-width: auto;
+}
+
+
+ #top-wrapper {
+  position:relative;
+ }
+
+ #cta {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  position: absolute; 
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  background-color: transparent;
+  width:350px;
+  height:110px; 
+  color:white;
+  }
+}
+
+#submitButton {
+  /* color: #fff; */
+  background-color: rgba(234, 33, 39, 0.8);
+  border-color: rgba(234, 33, 39, 0.3);
+  box-shadow: inset 2px 2px 3px rgba(234, 33, 39, .2),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+
+#submitButton:hover {
+  background-color: rgba(255, 255, 255, 1);
+  border-color: rgba(234, 33, 39, 0.3);
+  color: rgba(234, 33, 39, 1);
+}
