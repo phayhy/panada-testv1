@@ -28,7 +28,7 @@ The following tools were used to set up the website
 
 ## Credits
 ### Content
-* The text, content and images were copied from:
+The text, content and images were copied from:
 * [Fun Toast](https://www.funtoast.com.sg/)
 
 ### Media
