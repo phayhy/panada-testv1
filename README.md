@@ -5,7 +5,7 @@ This project is to setup a Bootstrap Repo & Github Pages for the Fun Toast proto
 
 The purpose of this project is to modernize and simplify the existing website from Fun Toast by using the corporate colours from Fun's logo (i.e., black and red) and bootstrap design.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+Sample User Story:
 
 * As a potential customer, I want to be able to easily find the link to products so that I can find the list of products offered by the company.
 
@@ -27,7 +27,6 @@ The following tools were used to set up the website
 * [Bootstrap Templates](https://startbootstrap.com/templates)
 * [Figma](https://www.figma.com/)
 * [Canva](https://www.canva.com/en_gb/)
-
 
 ## Credits
 ### Content
