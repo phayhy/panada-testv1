@@ -7,7 +7,7 @@ The purpose of this project is to modernize and simplify the existing website fr
 
 Sample User Story:
 
-* As a potential customer, I want to be able to easily find the link to products so that I can find the list of products offered by the company.
+* As a potential customer, I want to be able to easily find the link to products so that I know what is available for sale by the company.
 
 The link to the mock up website: [Fun Toast mock up website](https://phayhy.github.io/panada-testv1/).
 
