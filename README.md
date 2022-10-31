@@ -16,8 +16,6 @@ The link to the mock up website: [Fun Toast mock up website](https://phayhy.gith
 * Feature 1 - A call-to-action button at the center of the landing page to allow users to find the products easily 
 * Feature 2 - Simplified navigation bar to focus on important contents
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
 ### Features Left to Implement
 * Feature 1 - To include new pages for promotions and outlets
 
