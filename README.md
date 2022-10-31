@@ -36,8 +36,11 @@ For any scenarios that have not been automated, test the user stories manually a
 1. Contact form:
 
   i.  Go to the "Contact Us" page
+  
   ii. Try to submit the empty form and verify that an error message about the required fields appears
+  
   iii.  Try to submit the form with an invalid email address and verify that a relevant error message appears
+  
   iv. Try to submit the form with all inputs valid and verify that a success message appears.
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
