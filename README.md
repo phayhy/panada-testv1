@@ -1,2 +1,2 @@
 # panada-testv1
-Figma to Bootstrap
+Setup Bootstrap Repo & Github Pages
